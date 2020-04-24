@@ -1,5 +1,5 @@
 # ZoomGames
-Home and bored during quarentine, I decided to recreate some of my favorite drinking card games for my friends and I to play on Zoom. 
+Home and bored during quarentine senior year of college, I decided to recreate some of my favorite drinking card games for my friends and I to play on Zoom. 
 
 To play, simply run Play.py and select a game.
 
@@ -13,5 +13,3 @@ To play Cube, you must guess higher or lower on a card in the cube. A 'turn' con
 
 ## 3. Kings Cup
 <img src="https://github.com/thomasg8/ZoomGames/blob/master/Screenshots/KingsCupScreenshot.png" alt="KingsCupScreenshot" width="200"/>
-
-
