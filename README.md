@@ -1,7 +1,7 @@
 # ZoomGames
 Home and bored during quarentine, I decided to recreate some of my favorite drinking card games for my friends and I to play on Zoom. 
 
-To play, simply run Play.py.
+To play, simply run Play.py and select a game.
 
 ## 1. Cube
 <img src="https://github.com/thomasg8/ZoomGames/blob/master/Screenshots/CubeScreenshot.png" alt="CubeScreenshot" width="200"/>
